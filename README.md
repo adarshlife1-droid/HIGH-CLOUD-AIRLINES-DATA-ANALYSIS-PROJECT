@@ -57,7 +57,7 @@ High load factor routes contribute significantly to total revenue.
 Certain months show seasonal demand spikes.
 Medium-distance routes generate consistent revenue.
 Aircraft utilization directly impacts profitability.
-# iness Impact
+# Business Impact
 This project demonstrates how airline data can be leveraged to:
 Improve route planning
 Optimize seat capacity
